@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+#buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+/*   flex-wrap: wrap; */
+  margin-top: 20px;
+}
