@@ -1,15 +1,20 @@
 /*  your css code here. If applicable */
 #buttons {
+	height:40vh;
+	width:80wh;
+	background-color:#b57dff;
   display: flex;
   justify-content: center;
   align-items: center;
 	background-color:;
   flex-wrap: wrap;
   margin-top: 20px;
+
 }
-.btn{
-	background-color:purple;
+.btn,.btns{
+	background-color:#7455a6;
 	color:white;
-	padding:10px 20px;
+	padding:20px 20px;
 	border:none;
+	margin-left:2%
 }
